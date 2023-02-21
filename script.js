@@ -21,7 +21,7 @@ function playRound(playerSelection, computerSelection) {
         return `You lose! ${computerSelection} beats ${playerSelection}`
     }
 }
-
+/*
 function game() {
     let playerScore = 0;
     let computerScore = 0;
@@ -48,4 +48,4 @@ function game() {
       console.log(`It's a tie! Final score: ${playerScore} - ${computerScore}`);
     }
   }
-  
+  */
